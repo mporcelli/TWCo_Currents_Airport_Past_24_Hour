@@ -15,7 +15,7 @@ Time Series Observations - Historical weather data from METAR and SYNOP observat
 ---
 # Reference
 [The Weather Company](http://www.theweathercompany.com/)  
-[TWCo Forecast Daily](http://goo.gl/AoxGl3)
+[TWCo Currents Airport Past 24 Hour](http://goo.gl/Y3OUvY)
 
 ---
 #Requirements
